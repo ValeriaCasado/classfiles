@@ -1,0 +1,48 @@
+a    Anastasia
+b         Dima
+c    Katherine
+d        James
+e        Emily
+f      Michael
+g      Matthew
+h        Laura
+i        Kevin
+j        Jonas
+Name: name, dtype: object
+--------------------------------------------------------------------------------
+a    12.5
+b       9
+c    16.5
+d     NaN
+e       9
+f      20
+g    14.5
+h     NaN
+i       8
+j      19
+Name: score, dtype: object
+--------------------------------------------------------------------------------
+a    1
+b    3
+c    2
+d    3
+e    2
+f    3
+g    1
+h    1
+i    2
+j    1
+Name: attempts, dtype: object
+--------------------------------------------------------------------------------
+a    yes
+b     no
+c    yes
+d     no
+e     no
+f    yes
+g    yes
+h     no
+i     no
+j    yes
+Name: qualify, dtype: object
+--------------------------------------------------------------------------------
